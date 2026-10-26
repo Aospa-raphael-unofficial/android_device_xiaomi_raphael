@@ -196,7 +196,7 @@ TARGET_COMMON_QTI_COMPONENTS := \
 
 # Popup Camera Settings
 PRODUCT_PACKAGES += \
-    PopupCameraSettings \
+    PopupCameraSettings
 
 # Radio Properties
 PRODUCT_VENDOR_PROPERTIES += \
